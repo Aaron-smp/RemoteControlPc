@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Controlador</string>
+    <string name="conexion">Sin conexión</string>
+    <string name="version">Versión 1.0.0</string>
+    <string name="downVol">Bajar</string>
+    <string name="upVol">Subir</string>
+    <string name="numVol">0</string>
+    <string name="volComputer">Volumén del ordenador:</string>
+    <string name="nivel_de_volumen">Nivel de volumen:</string>
+</resources>
